@@ -1,0 +1,8 @@
+{
+  "name": "theaterApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b20be5fb"
+}
